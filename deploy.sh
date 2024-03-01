@@ -1,5 +1,4 @@
 #!/bin/bash
-#Creado por: David Portillo
 case "$1" in
 	'deployone')
 		echo "Selecciona un Middleware Home"
